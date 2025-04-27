@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🔬 My research interests include:
 - Inverse Reinforcement Learning (IRL)
-- Time Series Analysis and Transformer
+- Time Series Analysis, LSTM and Transformer
 - Embodied Intelligence
 - Bio-inspired Robotics
 - Control Systems and Machine Learning
