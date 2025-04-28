@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 - Data Analysis & Simulation Tools
 
 🚀 Selected Projects:
-- [**Project 1**](链接): 简短的一句话介绍，比如 “Learning insect-like walking gaits using IRL.”
-- [**Project 2**](链接): 简短介绍，比如 “Adversarial IRL for adaptive locomotion in robotics.”
-- [**Project 3**](链接): （可选，可以留2-3个项目就好）
+- [**Project 1**]([URL](https://github.com/wangyuchen0217/cricket-motion-prediction)): Motion prediction from cricket walking videos.
+- [**Project 2**](URL): 简短介绍，比如 “Adversarial IRL for adaptive locomotion in robotics.”
+- [**Project 3**](URL): （可选，可以留2-3个项目就好）
 
 📫 How to reach me:
 - Email: [你的邮箱]
