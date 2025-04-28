@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Data Analysis & Simulation Tools
 
 🚀 Selected Projects:
-- [**Project 1**]([URL](https://github.com/wangyuchen0217/cricket-motion-prediction)): Motion prediction from cricket walking videos.
+- [**Project 1**](https://github.com/wangyuchen0217/cricket-motion-prediction): Motion prediction from cricket walking videos.
 - [**Project 2**](URL): 简短介绍，比如 “Adversarial IRL for adaptive locomotion in robotics.”
 - [**Project 3**](URL): （可选，可以留2-3个项目就好）
 
